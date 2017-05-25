@@ -1,0 +1,22 @@
+{
+  "name": "csw_class01",
+  "version": "1.0.0",
+  "description": "第一次",
+  "main": "index.js",
+  "scripts": {
+    "test": "ccc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CSWQ/csw_class01.git"
+  },
+  "keywords": [
+    "csw"
+  ],
+  "author": "csw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CSWQ/csw_class01/issues"
+  },
+  "homepage": "https://github.com/CSWQ/csw_class01#readme"
+}
